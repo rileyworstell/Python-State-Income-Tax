@@ -29,6 +29,3 @@ def calculate_itaxes(income, state):
         else:
             amount_to_pay += (i[0] * i[1])
             left_to_tax -= i[1]
-
-
-print(calculate_itaxes(10000, 'AK'))
