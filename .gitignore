@@ -1,1 +1,5 @@
 __pycache__
+build/
+dist/
+LICENSE
+states_itax_rileycworstell.egg-info/

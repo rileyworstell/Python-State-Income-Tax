@@ -13,9 +13,8 @@ Then I developed and ran the pycsv.py file included in the document and took the
 in the tax_dict.py file.
 
 # How this works!
-This dictionary (in tax_dict.py) allows the main function in states_itax.py to take your income and state and give you your estimated state income tax.
+This dictionary (in tax_dict.py) allows the main function in states_income_tax/__init__.py to take your income and state and give you your estimated state income tax.
 
 # Testing
-The testing is currently in test_states.py. As time goes I am working on adding new tests in there.
-
+The testing is currently in tests/test_states.py. As time goes I am working on adding new tests in there.
 
