@@ -4,6 +4,14 @@ This is for other developers who want a function to quickly calculate state inco
 This information should be used for FUN only, I am not an accountant :).
 
 # How to use this?
+
+pip install -i https://test.pypi.org/simple/ states-itax-rileycworstell==0.0.1
+
+`
+import states_income_tax as si
+si.calculate_itaxes(700, 'AL')
+`
+
 If you don't care about all this other stuff you can use this by pulling down this repository and calling the calculate_itaxes(income, state) function where state is your states abbreviation such as 'KY' or 'NY'.
 
 # How the Data was Compiled.
