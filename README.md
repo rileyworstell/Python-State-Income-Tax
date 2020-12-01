@@ -5,9 +5,7 @@ This information should be used for FUN only, I am not an accountant :).
 
 # How to use this?
 As a Function you can:
-
-pip install -i https://test.pypi.org/simple/ states-itax-rileycworstell==0.0.1
-
+With the states_itax.py and tax_dict.py in your repository:
 `import states_income_tax as si`
 
 `si.calculate_itaxes(700, 'AL')`
