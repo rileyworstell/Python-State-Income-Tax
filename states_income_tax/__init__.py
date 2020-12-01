@@ -25,4 +25,4 @@ def calculate_itaxes(income, state):
             left_to_tax -= i[1]
 
 
-print(calculate_itaxes(700, 'AK'))
+# print(calculate_itaxes(700, 'AL'))
