@@ -4,6 +4,7 @@ This is for other developers who want a function to quickly calculate state inco
 This information should be used for FUN only, I am not an accountant :).
 
 # How to use this?
+As a Function you can:
 
 pip install -i https://test.pypi.org/simple/ states-itax-rileycworstell==0.0.1
 
