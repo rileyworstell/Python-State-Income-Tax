@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="states-itax-rileycworstell",
+    name="sit-calc-rileycworstell",
     version="0.0.1",
     author="Riley Worstell",
     author_email="rcwors02@gmail.com",

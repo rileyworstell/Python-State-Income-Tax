@@ -7,3 +7,4 @@ states_income_tax/
 states_income_tax
 /states_income_tax
 /states_income_tax/
+*.egg-info

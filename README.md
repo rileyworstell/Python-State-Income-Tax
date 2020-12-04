@@ -4,11 +4,17 @@ This is for other developers who want a function to quickly calculate state inco
 This information should be used for FUN only, I am not an accountant :).
 
 # How to use this?
-As a Function you can:
-With the states_itax.py and tax_dict.py in your repository:
-`import states_income_tax as si`
+To Download this package use:
+`pip install sit-calc-rileycworstell==0.0.1`
+To import and run a simple example:
+`import sit_calc as si`
+`si.calculate_itaxes(70000, 'AL')`
 
-`si.calculate_itaxes(700, 'AL')`
+This example will tell you your state income taxes if you live in Alabama. 
+For this to work you need to put the state as the 2 letter abbreviation.
+
+Note: The 'sit' stands for state income tax
+
 
 # How the Data was Compiled.
 I got the data from this project on https://taxfoundation.org/facts-and-figures-2020/
